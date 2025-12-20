@@ -1,53 +1,49 @@
-<h1 align="center">Olá, eu sou o Ricardo Trindade 👋</h1>
+<h2 align="center">Ricardo Trindade</h2>
 
 <p align="center">
-  Estudante de Desenvolvimento de Software | UI/UX Designer em formação  
-  Focado em construir base sólida em backend, frontend e design
+  Estudante de Desenvolvimento de Software · UI/UX em formação  
+  Focado em base sólida, projetos reais e evolução constante
 </p>
 
 ---
 
-## 🚀 Sobre mim
-- 🎓 Estudante e entusiasta de tecnologia  
-- 🧠 Estudando **Java e Spring Boot** (backend)  
-- 🌐 Estudando **HTML, CSS e JavaScript** (frontend)  
-- 🎨 Me especializando em **Design UI/UX**, com foco em usabilidade e interfaces bem estruturadas  
-- 🗄️ Estudando **SQL** e fundamentos de banco de dados  
-- 📈 Buscando experiência prática através de projetos reais e freelas iniciais  
+### Sobre
+Sou estudante de desenvolvimento de software, atualmente construindo minha base técnica em backend, frontend e design de interfaces.  
+Meu foco é aprender do jeito certo: entendendo fundamentos, criando projetos práticos e evoluindo de forma consistente.
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
+### Estudos atuais
+- Backend com **Java e Spring Boot**
+- Frontend com **HTML, CSS e JavaScript**
+- **Design UI/UX**, com foco em usabilidade e estrutura (Figma)
+- **SQL** e bancos de dados relacionais
+
+---
+
+### Tecnologias e ferramentas
 <div align="center">
 
-### 🔹 Backend
+**Backend**  
 <img src="https://skillicons.dev/icons?i=java,spring"/>
 
-### 🔹 Frontend
+**Frontend**  
 <img src="https://skillicons.dev/icons?i=html,css,js"/>
 
-### 🔹 Banco de Dados
+**Banco de dados**  
 <img src="https://skillicons.dev/icons?i=mysql"/>
 
-### 🔹 Ferramentas
+**Ferramentas**  
 <img src="https://skillicons.dev/icons?i=figma,git,github,vscode,idea"/>
 
 </div>
 
 ---
 
-## 📫 Contato profissional
-<div align="center">
-
-📧 **Email:** ricardotrindade.dev@gmail.com  
-
-</div>
+### Objetivo
+Adquirir experiência prática através de projetos e trabalhos iniciais, enquanto continuo aprofundando meus conhecimentos em desenvolvimento e design.
 
 ---
 
-<div align="center">
-  
-Obrigado por visitar meu perfil.  
-Sinta-se à vontade para explorar meus repositórios e acompanhar minha evolução.
-
-</div>
+### Contato
+📧 **ricardotrindade.dev@gmail.com**
