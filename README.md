@@ -1,32 +1,53 @@
-<h1 align="center">Ricardo</h1>
+<h1 align="center">Olá, eu sou o Ricardo Trindade 👋</h1>
 
 <p align="center">
-  Olá! Meu nome é Ricardo, moro em São Paulo capital (SP), nasci dia 19/12/2008 e faço o curso Desenvolvimento de Sistema no Senai Suíço. Estudo Java (Back-End), HTML, CSS E JavaScript (Front-End), SQL (Banco de Dados), conceitos básicos de redes, git e sistema operacional.
+  Estudante de Desenvolvimento de Software | UI/UX Designer em formação  
+  Focado em construir base sólida em backend, frontend e design
 </p>
 
 ---
 
-![](./profile-3d-contrib/profile-gitblock.svg)
+## 🚀 Sobre mim
+- 🎓 Estudante e entusiasta de tecnologia  
+- 🧠 Estudando **Java e Spring Boot** (backend)  
+- 🌐 Estudando **HTML, CSS e JavaScript** (frontend)  
+- 🎨 Me especializando em **Design UI/UX**, com foco em usabilidade e interfaces bem estruturadas  
+- 🗄️ Estudando **SQL** e fundamentos de banco de dados  
+- 📈 Buscando experiência prática através de projetos reais e freelas iniciais  
 
 ---
 
-## Sobre
+## 🛠️ Tecnologias e Ferramentas
+<div align="center">
 
-- Estudante de Back-End (Java)
-- Estudante de Front-End (HTML, CSS, JS)
-- Esudante de Banco de Dados (SQL)
-- Esudante de Design (Figma)
+### 🔹 Backend
+<img src="https://skillicons.dev/icons?i=java,spring"/>
 
-## Projetos em destaque
+### 🔹 Frontend
+<img src="https://skillicons.dev/icons?i=html,css,js"/>
 
-- MNF Project
+### 🔹 Banco de Dados
+<img src="https://skillicons.dev/icons?i=mysql"/>
 
-## Contato
+### 🔹 Ferramentas
+<img src="https://skillicons.dev/icons?i=figma,git,github,vscode,idea"/>
 
-- [LinkedIn] (link)
-- [Portfólio] (link)
-- [Instagram] (link)
+</div>
 
 ---
 
-> Frase Motivacional
+## 📫 Contato profissional
+<div align="center">
+
+📧 **Email:** ricardotrindade.dev@gmail.com  
+
+</div>
+
+---
+
+<div align="center">
+  
+Obrigado por visitar meu perfil.  
+Sinta-se à vontade para explorar meus repositórios e acompanhar minha evolução.
+
+</div>
