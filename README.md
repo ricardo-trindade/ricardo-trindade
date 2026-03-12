@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou o Ricardo Trindade 👋</h1>
 
 <p align="center">
-  Estudante de Desenvolvimento de Software | UI/UX Designer em formação  
+  Estudante de Desenvolvimento de Software | UI/UX Designer em formação.
   Focado em construir base sólida em backend, frontend e design
 </p>
 
@@ -11,7 +11,7 @@
 - 🎓 Estudante e entusiasta de tecnologia  
 - 🧠 Estudando **Java e Spring Boot** (backend)  
 - 🌐 Estudando **HTML, CSS e JavaScript** (frontend)  
-- 🎨 Me especializando em **Design UI/UX**, com foco em usabilidade e interfaces bem estruturadas  
+- 🎨 Estudando **Design UI/UX**, com foco em usabilidade e interfaces bem estruturadas  
 - 🗄️ Estudando **SQL** e fundamentos de banco de dados  
 - 📈 Buscando experiência prática através de projetos reais e freelas iniciais  
 
