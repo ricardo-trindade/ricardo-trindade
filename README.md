@@ -39,7 +39,7 @@
 ## 📫 Contato profissional
 <div align="center">
 
-📧 **Email:** ricardotrindade.dev@gmail.com  
+📧 **Contact**
 
 </div>
 
